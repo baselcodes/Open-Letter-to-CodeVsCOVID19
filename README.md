@@ -17,5 +17,5 @@ Contemporary guidelines, like the [MyData initiative](https://julkaisut.valtione
 With this being said, we hope that this hackathon leads to a wealth of solutions that improve the current situation without simultaneously disregarding ethical principles or privacy rights.
 
 Best regards,
-Max Frischknecht, Mark Iandovka, Alain Brusch, Yann Patrick Martins, Andrea Zaccuri, Ted Davis, Pedro Neves
+Max Frischknecht, Mark Iandovka, Alain Brusch, Yann Patrick Martins, Andrea Zaccuri, Ted Davis, Pedro Neves, Arianna Smaron & Lena Frei 
 of basel.codes
